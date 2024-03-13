@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\YabancıDiller2\YabancıDiller2\bin\Debug\YabancıDiller2.exe.config
+C:\Users\user\Desktop\YabancıDiller2\YabancıDiller2\bin\Debug\YabancıDiller2.exe
+C:\Users\user\Desktop\YabancıDiller2\YabancıDiller2\bin\Debug\YabancıDiller2.pdb
+C:\Users\user\Desktop\YabancıDiller2\YabancıDiller2\obj\Debug\YabancıDiller2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\YabancıDiller2\YabancıDiller2\obj\Debug\YabancıDiller2.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\YabancıDiller2\YabancıDiller2\obj\Debug\YabancıDiller2.Form1.resources
+C:\Users\user\Desktop\YabancıDiller2\YabancıDiller2\obj\Debug\YabancıDiller2.Properties.Resources.resources
+C:\Users\user\Desktop\YabancıDiller2\YabancıDiller2\obj\Debug\YabancıDiller2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\YabancıDiller2\YabancıDiller2\obj\Debug\YabancıDiller2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\YabancıDiller2\YabancıDiller2\obj\Debug\YabancıDiller2.exe
+C:\Users\user\Desktop\YabancıDiller2\YabancıDiller2\obj\Debug\YabancıDiller2.pdb
